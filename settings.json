@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "randwagroup.aternos.me",
+    "port": 44880,
     "version": "1.21.1"
   },
   "position": {
